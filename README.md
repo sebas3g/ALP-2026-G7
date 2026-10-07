@@ -6,3 +6,7 @@
 - Francis Bonifaz
 - David Punina
 - Dixon Padro
+## Tema 
+- ArrayList
+## Fecha de presentación
+27 de Noviembre, 2026
