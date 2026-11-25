@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Listas en Java">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16264A"/>
+      <stop offset="1" stop-color="#0E1A33"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect x="60" y="56" width="90" height="8" rx="4" fill="#E8843A"/>
+  <text x="60" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4" fill="#E8843A">ALP-2026-G7 · EXPOSICIÓN</text>
+  <text x="60" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="800" fill="#F7F4EC">Listas en Java</text>
+  <text x="60" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#A9BBD9">Del arreglo a una estructura más flexible</text>
+  <text x="60" y="286" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" letter-spacing="2" fill="#7F93B5">UNIVERSIDAD TÉCNICA DE AMBATO · INGENIERÍA DE SOFTWARE</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <rect x="690" y="110" width="100" height="100" rx="14" fill="#3E4C66"/>
+    <text x="740" y="170" font-size="24" fill="#fff">Ana</text>
+    <rect x="800" y="110" width="100" height="100" rx="14" fill="#1C2A4D" stroke="#3E4C66" stroke-width="2"/>
+    <text x="850" y="170" font-size="24" fill="#fff">Luis</text>
+    <rect x="910" y="110" width="100" height="100" rx="14" fill="#E8843A"/>
+    <text x="960" y="170" font-size="24" fill="#fff">Ana</text>
+    <rect x="1020" y="110" width="100" height="100" rx="14" fill="#9A4410"/>
+    <text x="1070" y="170" font-size="24" fill="#fff">Mia</text>
+    <g font-size="18" fill="#A9BBD9">
+      <text x="740" y="244">0</text><text x="850" y="244">1</text>
+      <text x="960" y="244">2</text><text x="1070" y="244">3</text>
+    </g>
+    <text x="905" y="82" font-size="16" fill="#E8843A" letter-spacing="2">LIST&lt;String&gt; nombres</text>
+    <text x="905" y="284" font-size="15" font-weight="500" fill="#7F93B5">índices desde 0 · duplicados permitidos</text>
+  </g>
+</svg>
