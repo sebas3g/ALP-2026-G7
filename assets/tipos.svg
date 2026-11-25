@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" role="img" aria-label="List y sus tres implementaciones">
+  <rect width="900" height="360" rx="18" fill="#F7F4EC"/>
+  <defs>
+    <marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3E4C66"/></marker>
+  </defs>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <rect x="340" y="28" width="220" height="64" rx="14" fill="#16264A"/>
+    <text x="450" y="68" font-size="28" font-weight="800" fill="#fff">List</text>
+    <text x="450" y="112" font-size="14" fill="#6B7A99">interfaz</text>
+
+    <path d="M450 118 L165 208" stroke="#3E4C66" stroke-width="2.5" marker-end="url(#a)" fill="none"/>
+    <path d="M450 118 L450 208" stroke="#3E4C66" stroke-width="2.5" marker-end="url(#a)" fill="none"/>
+    <path d="M450 118 L735 208" stroke="#3E4C66" stroke-width="2.5" marker-end="url(#a)" fill="none"/>
+
+    <rect x="50" y="214" width="230" height="70" rx="14" fill="#3E4C66"/>
+    <text x="165" y="257" font-size="24" font-weight="700" fill="#fff">ArrayList</text>
+    <text x="165" y="316" font-size="16" fill="#16264A" font-weight="600">Arreglo dinámico</text>
+    <text x="165" y="338" font-size="14" fill="#6B7A99">Acceso rápido por índice</text>
+
+    <rect x="335" y="214" width="230" height="70" rx="14" fill="#9A4410"/>
+    <text x="450" y="257" font-size="24" font-weight="700" fill="#fff">LinkedList</text>
+    <text x="450" y="316" font-size="16" fill="#16264A" font-weight="600">Nodos enlazados</text>
+    <text x="450" y="338" font-size="14" fill="#6B7A99">Altas y bajas en los extremos</text>
+
+    <rect x="620" y="214" width="230" height="70" rx="14" fill="#E8843A"/>
+    <text x="735" y="257" font-size="24" font-weight="700" fill="#fff">Vector</text>
+    <text x="735" y="316" font-size="16" fill="#16264A" font-weight="600">Arreglo sincronizado</text>
+    <text x="735" y="338" font-size="14" fill="#6B7A99">Código antiguo con hilos</text>
+  </g>
+</svg>
